@@ -19,6 +19,11 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 # Examen 4 - Programación Funcional: Temperaturas por Ciudad
 
+**Integrantes del equipo:**
+
+- Juan Esteban Correa Cano
+- Emmanuel Berrio Jimenez
+
 ## Descripción General
 
 Esta aplicación Java permite analizar y visualizar registros de temperaturas diarias de distintas ciudades a partir de un archivo CSV. Utiliza programación funcional (Streams, lambdas, colecciones inmutables) y una interfaz gráfica moderna basada en Swing, con un menú inferior siempre visible para una experiencia fluida.
