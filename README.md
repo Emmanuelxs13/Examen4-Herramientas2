@@ -107,4 +107,3 @@ Agrega la dependencia de JFreeChart en tu archivo de configuración.
 
 ---
 
-**Autor:** Examen 4 - Programación Funcional, Java Swing, 2025
